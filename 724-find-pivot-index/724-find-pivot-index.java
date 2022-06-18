@@ -1,5 +1,8 @@
 class Solution {
     public int pivotIndex(int[] nums) {
+        
+        if(nums.length == 0) return -1;
+
         int left = 0;
         int right = SumOfRight(nums);
         
@@ -22,9 +25,7 @@ class Solution {
         
     public static int SumOfRight(int[] arr){
         int sum = 0;
-        for(int num : arr){
-             sum+=num;
-        }
-        return sum;
+        for(int num : arr) sum+=num ; return sum;
+
     }
 }

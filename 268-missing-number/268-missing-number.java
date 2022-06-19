@@ -1,13 +1,13 @@
 public class Solution {
     public int missingNumber(int[] nums) {
         
-        boolean[] b = new boolean[nums.length+1];
+        boolean[] indexChacker = new boolean[nums.length+1];
         for(int num:nums){
-            b[num] = true;
+            indexChacker[num] = true;
         }
         int i;
-        for(i=0;i<b.length;i++)
-            if(!b[i])
+        for(i=0;i<indexChacker.length;i++)
+            if(!indexChacker[i])
                 return i;
         return i;
     }

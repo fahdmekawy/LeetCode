@@ -1,34 +1,21 @@
 class Solution {
-    public String addBinary(String a, String b) {
-    
-        StringBuilder result = new StringBuilder();
+    public String addBinary(String s1, String s2) {
         
-        int aLength = a.length() - 1;
-        int bLength = b.length() - 1;
+    StringBuilder result = new StringBuilder();
         
-        int carry = 0;
+    int i = s1.length() - 1, j = s2.length() -1, carry = 0;
         
-        while(aLength >= 0 || bLength >= 0){
-            
-            int sum = carry;
-            
-            if(aLength >= 0) {
-                sum += (a.charAt(aLength--) - '0');        
-            }
-            
-            if(bLength >= 0) {
-                sum += (b.charAt(bLength--) - '0');
-            }
-            
-            result.insert(0, sum%2);
-            
-            carry = (sum / 2);
-        }
         
-        if (carry > 0) {
-            result.insert(0, 1);
-        }
+    while (i >= 0 || j >= 0) {
         
-         return result.toString();
+        int sum = carry;
+        //  java convert string to int automatically,Thus "0" = 48 and "1"=49
+        if (j >= 0) sum += s2.charAt(j--) - '0';
+        if (i >= 0) sum += s1.charAt(i--) - '0';
+        result.append(sum % 2); // if sum = 2 then 
+        carry = sum / 2;
     }
+    if (carry != 0) result.append(carry);
+    return result.reverse().toString();
+}
 }

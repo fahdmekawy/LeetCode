@@ -4,13 +4,13 @@ class Solution {
     int right = nums.length;
 
     while (left < right) {
-      final int m = (left + right) / 2;
-      if (nums[m] == target)
-        return m;
-      if (nums[m] < target)
-        left = m + 1;
+      final int middle = (left + right) / 2;
+      if (nums[middle] == target)
+        return middle;
+      if (nums[middle] < target)
+        left = middle + 1;
       else
-        right = m;
+        right = middle;
     }
 
     return left;

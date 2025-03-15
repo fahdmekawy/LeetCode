@@ -1,12 +1,18 @@
 class Solution {
   double findMaxAverage(List<int> nums, int k) {
-    if (k > nums.length) return -1; 
-    double windowSum = nums.sublist(0, k).reduce((a, b) => a + b).toDouble();
-    double maxSum = windowSum;
-    for (int i = k; i < nums.length; i++) {
-      windowSum += nums[i] - nums[i - k];
-      maxSum = max(maxSum, windowSum);
+    int max=0;
+    int sum=0;
+
+    for(int i=0;i<k;i++){
+        sum+=nums[i];
     }
-    return maxSum / k;
+    max=sum;
+    for(int i=k;i<nums.length;i++){
+        sum+=nums[i]-nums[i-k];
+        if(max<sum){
+            max=sum;
+        }
+    }
+    return max/k;
   }
 }

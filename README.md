@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/fahdmekawy/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/fahdmekawy/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/fahdmekawy/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/fahdmekawy/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/fahdmekawy/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/fahdmekawy/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/fahdmekawy/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/fahdmekawy/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/fahdmekawy/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -26,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/fahdmekawy/LeetCode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/fahdmekawy/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -45,9 +48,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/fahdmekawy/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1894-merge-strings-alternately](https://github.com/fahdmekawy/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/fahdmekawy/LeetCode/tree/master/1894-merge-strings-alternately) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/fahdmekawy/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->

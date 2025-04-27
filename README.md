@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/fahdmekawy/LeetCode/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/fahdmekawy/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/fahdmekawy/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/fahdmekawy/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/fahdmekawy/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/fahdmekawy/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/fahdmekawy/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/fahdmekawy/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/fahdmekawy/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/fahdmekawy/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/fahdmekawy/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/fahdmekawy/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -27,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/fahdmekawy/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/fahdmekawy/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/fahdmekawy/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
@@ -58,4 +61,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/fahdmekawy/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/fahdmekawy/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/fahdmekawy/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

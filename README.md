@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/fahdmekawy/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/fahdmekawy/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -69,4 +70,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/fahdmekawy/LeetCode/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/fahdmekawy/LeetCode/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->

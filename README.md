@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/fahdmekawy/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/fahdmekawy/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/fahdmekawy/LeetCode/tree/master/0441-arranging-coins) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -74,4 +75,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/fahdmekawy/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/fahdmekawy/LeetCode/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->

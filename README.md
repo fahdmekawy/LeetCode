@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/fahdmekawy/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/fahdmekawy/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/fahdmekawy/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/fahdmekawy/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/fahdmekawy/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/fahdmekawy/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/fahdmekawy/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/fahdmekawy/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -52,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/fahdmekawy/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/fahdmekawy/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1894-merge-strings-alternately](https://github.com/fahdmekawy/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -63,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/fahdmekawy/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/fahdmekawy/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/fahdmekawy/LeetCode/tree/master/0441-arranging-coins) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/fahdmekawy/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
